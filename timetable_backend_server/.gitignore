@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.idea/
+.vscode/
+
+# Coverage folder (if you're using test coverage tools)
+coverage/
+
+# Build files (if using build tools)
+dist/
+
+# Optional: specific to your deployment (e.g., if you use Docker)
+.docker/

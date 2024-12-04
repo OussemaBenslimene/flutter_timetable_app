@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1733253349841,
+      "username": "oussema",
+      "password": "$2a$10$.c.JHzPbJZmFge7yOQR9T.CHakzJYjnTZOv1S.YtnDlGDzDseMt3K"
+    },
+    {
+      "id": 1733269976404,
+      "username": "ahmed",
+      "password": "$2a$10$6xlTabPktO3.7s.GMcRVyeonuv39v0aBqeQ3tgV77GmYhIqRh6b7u"
+    },
+    {
+      "id": 1733273884630,
+      "username": "mohsen",
+      "password": "$2a$10$XaIwMi7Rl1lSColHK2lMbeyAf.oklC2ODi0pCx2cgWxjkWp3Z0qWu"
+    }
+  ]
+}
